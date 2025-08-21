@@ -190,7 +190,7 @@ margin-top: 5%;
        color: #3f3f3f;
        margin-top: 30%; 
        margin: 5%;
-     margin-top: -570%;
+     margin-top: -510%;
        font-weight: 600;
 }
 .copas{
@@ -385,7 +385,7 @@ background-color: #63193d;
          font-size: 20px;
          color: #ffffff;
          font-weight: 600;
-         margin-top: 70%;
+         margin-top: 40%;
 }
 .cande{
   width: 110%;
@@ -409,7 +409,7 @@ background-color: #63193d;
   padding: 25px;
   background-image: url(./imagenes/papelitos.gif);
   background-size: 35%;
-  margin-top: -30%;
+  margin-top: 10%;
 }
 
 
